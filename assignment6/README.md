@@ -12,3 +12,4 @@ Requirement Points:
     Loading State
 
 Deploy Link : https://assignment6avichhi.netlify.app/
+API Link : https://68a6cade639c6a54e99fdc85.mockapi.io/users
